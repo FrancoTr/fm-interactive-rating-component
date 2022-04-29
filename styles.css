@@ -5,3 +5,7 @@
   --color-dark-blue: hsl(213, 19%, 18%);
   --color-very-dark-blue: hsl(216, 12%, 8%);
 }
+
+body {
+  font-family: "Overpass", sans-serif;
+}
