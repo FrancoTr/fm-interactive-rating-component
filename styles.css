@@ -7,5 +7,14 @@
 }
 
 body {
+  display: flex;
   font-family: "Overpass", sans-serif;
+  font-size: 15px;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-submitted-rating {
+  display: none;
 }
