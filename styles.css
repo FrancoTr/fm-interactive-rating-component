@@ -17,11 +17,13 @@ body {
   background-color: var(--color-very-dark-blue);
 }
 
-h1 {
+h1,
+button {
   color: var(--color-white);
 }
 
-p {
+p,
+li {
   color: var(--color-light-grey);
 }
 
