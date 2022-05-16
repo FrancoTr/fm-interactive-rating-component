@@ -24,7 +24,17 @@ button {
 
 p,
 li {
-  color: var(--color-light-grey);
+  color: var(--color-medium-grey);
+}
+
+.container-rating {
+  padding: 2rem;
+  border-radius: 10px;
+  background-color: var(--color-dark-blue);
+}
+
+.img-container {
+  background-color: var(--color-medium-grey);
 }
 
 .container-submitted-rating {
