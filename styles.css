@@ -34,8 +34,9 @@ li {
 
 .container-rating {
   padding: 2rem;
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: var(--color-dark-blue);
+  width: 21rem;
 }
 
 .img-container {
