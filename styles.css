@@ -18,6 +18,11 @@ body {
 }
 
 h1,
+p {
+  margin-bottom: 1rem;
+}
+
+h1,
 button {
   color: var(--color-white);
 }
@@ -34,6 +39,9 @@ li {
 }
 
 .img-container {
+  margin-bottom: 1rem;
+  padding: 0.8rem;
+  border-radius: 100%;
   background-color: var(--color-medium-grey);
 }
 
