@@ -49,3 +49,19 @@ li {
 .container-submitted-rating {
   display: none;
 }
+
+ul {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  list-style: none;
+  background-color: var(--color-medium-grey);
+}
+
+li {
+  padding: 1rem;
+  height: 10px;
+  width: 10px;
+  background-color: var(--color-medium-grey);
+  border-radius: 50%;
+}
