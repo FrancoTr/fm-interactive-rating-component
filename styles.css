@@ -70,6 +70,12 @@ li {
   border-radius: 50%;
 }
 
+li:hover {
+  color: var(--color-white);
+  background-color: var(--color-orange);
+  cursor: pointer;
+}
+
 button {
   padding: 1rem 0 1rem;
   width: 100%;
