@@ -17,6 +17,10 @@ body {
   background-color: var(--color-very-dark-blue);
 }
 
+p {
+  line-height: 25px;
+}
+
 h1,
 p {
   margin-bottom: 1rem;
@@ -53,15 +57,23 @@ li {
 ul {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 1rem;
+  margin: 2rem 0 2rem;
   list-style: none;
   background-color: var(--color-medium-grey);
 }
 
 li {
-  padding: 1rem;
+  padding: 1.2rem;
   height: 10px;
   width: 10px;
   background-color: var(--color-medium-grey);
   border-radius: 50%;
+}
+
+button {
+  padding: 1rem 0 1rem;
+  width: 100%;
+  background-color: var(--color-orange);
+  border: none;
+  border-radius: 30px;
 }
