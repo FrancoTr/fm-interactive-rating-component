@@ -53,8 +53,12 @@ li {
 
 .container-submitted-rating {
   display: none;
+  text-align: center;
 }
 
+.container-submitted-rating p {
+  font-size: 16px;
+}
 ul {
   display: flex;
   justify-content: space-between;
